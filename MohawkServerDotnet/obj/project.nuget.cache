@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sfjygMvFcL1Ye58G6z6heCMJitsbpu/2XkSFmDmR3v/d6tIeM1OLRIG7AIrIVq9SmJ7t0s6FEtO/yZdGmu7Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sunil\\Documents\\GitHub\\MohawkServerDotnetExample\\MohawkServerDotnet\\MohawkServerDotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunil\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

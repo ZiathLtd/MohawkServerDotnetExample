@@ -1,0 +1,17 @@
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\bin\Debug\net6.0\MohawkServerDotnet.exe
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\bin\Debug\net6.0\MohawkServerDotnet.deps.json
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\bin\Debug\net6.0\MohawkServerDotnet.runtimeconfig.json
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\bin\Debug\net6.0\MohawkServerDotnet.dll
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\bin\Debug\net6.0\MohawkServerDotnet.pdb
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.csproj.AssemblyReference.cache
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.AssemblyInfoInputs.cache
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.AssemblyInfo.cs
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.csproj.CopyComplete
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.dll
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\refint\MohawkServerDotnet.dll
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.pdb
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\MohawkServerDotnet.genruntimeconfig.cache
+C:\Users\sunil\Documents\GitHub\MohawkServerDotnetExample\MohawkServerDotnet\obj\Debug\net6.0\ref\MohawkServerDotnet.dll

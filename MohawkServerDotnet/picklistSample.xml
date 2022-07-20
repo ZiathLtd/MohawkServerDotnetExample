@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<worklist>
+  <pick column="7" rackBarcode="ZIA100000754" row="1"/>
+  <pick column="5" rackBarcode="ZIA100000754" row="3"/>
+  <pick column="7" rackBarcode="ZIA100000754" row="5"/>
+  <pick column="11" rackBarcode="ZIA100000754" row="6"/>
+  <pick column="10" rackBarcode="ZIA100000754" row="7"/>
+  
+  <pick tubeBarcode="ZI1000760231"/>
+  <pick tubeBarcode="ZI1000760199"/>
+  <pick tubeBarcode="ZI1000760240"/>
+  <pick tubeBarcode="ZI1000760238"/>
+</worklist>
